@@ -1,0 +1,14 @@
+C:\Users\TN-99345\Desktop\webSocket\WS-CLIENT\WS-CLIENT\bin\Debug\net8.0\WS-CLIENT.exe
+C:\Users\TN-99345\Desktop\webSocket\WS-CLIENT\WS-CLIENT\bin\Debug\net8.0\WS-CLIENT.deps.json
+C:\Users\TN-99345\Desktop\webSocket\WS-CLIENT\WS-CLIENT\bin\Debug\net8.0\WS-CLIENT.runtimeconfig.json
+C:\Users\TN-99345\Desktop\webSocket\WS-CLIENT\WS-CLIENT\bin\Debug\net8.0\WS-CLIENT.dll
+C:\Users\TN-99345\Desktop\webSocket\WS-CLIENT\WS-CLIENT\bin\Debug\net8.0\WS-CLIENT.pdb
+C:\Users\TN-99345\Desktop\webSocket\WS-CLIENT\WS-CLIENT\obj\Debug\net8.0\WS-CLIENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TN-99345\Desktop\webSocket\WS-CLIENT\WS-CLIENT\obj\Debug\net8.0\WS-CLIENT.AssemblyInfoInputs.cache
+C:\Users\TN-99345\Desktop\webSocket\WS-CLIENT\WS-CLIENT\obj\Debug\net8.0\WS-CLIENT.AssemblyInfo.cs
+C:\Users\TN-99345\Desktop\webSocket\WS-CLIENT\WS-CLIENT\obj\Debug\net8.0\WS-CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\TN-99345\Desktop\webSocket\WS-CLIENT\WS-CLIENT\obj\Debug\net8.0\WS-CLIENT.dll
+C:\Users\TN-99345\Desktop\webSocket\WS-CLIENT\WS-CLIENT\obj\Debug\net8.0\refint\WS-CLIENT.dll
+C:\Users\TN-99345\Desktop\webSocket\WS-CLIENT\WS-CLIENT\obj\Debug\net8.0\WS-CLIENT.pdb
+C:\Users\TN-99345\Desktop\webSocket\WS-CLIENT\WS-CLIENT\obj\Debug\net8.0\WS-CLIENT.genruntimeconfig.cache
+C:\Users\TN-99345\Desktop\webSocket\WS-CLIENT\WS-CLIENT\obj\Debug\net8.0\ref\WS-CLIENT.dll
